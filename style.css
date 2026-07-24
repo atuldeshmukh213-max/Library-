@@ -248,10 +248,12 @@ nav ul{
 }
 
 .hero-image img{
-    width:100%;
-    max-width:450px;
-    margin-bottom:30px;
-}
+    width:360px;
+    height:250px;
+    max-width:none;
+    object-fit:cover;
+   }
+
 
 section{
     padding:60px 20px;
